@@ -1,0 +1,13 @@
+C:\Users\tspai\Documents\CodingChallengeJustinSpaid\bin\Debug\netcoreapp3.1\CodingChallengeJustinSpaid.exe
+C:\Users\tspai\Documents\CodingChallengeJustinSpaid\bin\Debug\netcoreapp3.1\CodingChallengeJustinSpaid.deps.json
+C:\Users\tspai\Documents\CodingChallengeJustinSpaid\bin\Debug\netcoreapp3.1\CodingChallengeJustinSpaid.runtimeconfig.json
+C:\Users\tspai\Documents\CodingChallengeJustinSpaid\bin\Debug\netcoreapp3.1\CodingChallengeJustinSpaid.runtimeconfig.dev.json
+C:\Users\tspai\Documents\CodingChallengeJustinSpaid\bin\Debug\netcoreapp3.1\CodingChallengeJustinSpaid.dll
+C:\Users\tspai\Documents\CodingChallengeJustinSpaid\bin\Debug\netcoreapp3.1\CodingChallengeJustinSpaid.pdb
+C:\Users\tspai\Documents\CodingChallengeJustinSpaid\obj\Debug\netcoreapp3.1\CodingChallengeJustinSpaid.csprojAssemblyReference.cache
+C:\Users\tspai\Documents\CodingChallengeJustinSpaid\obj\Debug\netcoreapp3.1\CodingChallengeJustinSpaid.AssemblyInfoInputs.cache
+C:\Users\tspai\Documents\CodingChallengeJustinSpaid\obj\Debug\netcoreapp3.1\CodingChallengeJustinSpaid.AssemblyInfo.cs
+C:\Users\tspai\Documents\CodingChallengeJustinSpaid\obj\Debug\netcoreapp3.1\CodingChallengeJustinSpaid.csproj.CoreCompileInputs.cache
+C:\Users\tspai\Documents\CodingChallengeJustinSpaid\obj\Debug\netcoreapp3.1\CodingChallengeJustinSpaid.dll
+C:\Users\tspai\Documents\CodingChallengeJustinSpaid\obj\Debug\netcoreapp3.1\CodingChallengeJustinSpaid.pdb
+C:\Users\tspai\Documents\CodingChallengeJustinSpaid\obj\Debug\netcoreapp3.1\CodingChallengeJustinSpaid.genruntimeconfig.cache
